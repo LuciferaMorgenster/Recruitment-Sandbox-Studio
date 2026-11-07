@@ -6,6 +6,24 @@
 
 ---
 
+## 💖 Sponsor Recruitment Sandbox
+
+Recruitment Sandbox is an open-source project built with passion and dedication. Want to support the continued development of this project? You can!
+
+**Sponsor this project by making a donation via PayPal:**
+
+<div align="center">
+
+### ☕ [Donate via PayPal](https://paypal.me/luciferamorgenster)
+
+📧 **PayPal:** `luciferamorgenster@gmail.com`
+
+</div>
+
+Every donation, big or small, helps keep Ivory Tower BBS alive, fund new features, and support ongoing development. Thank you for your generosity! 🙏
+
+---
+
 ## 🚀 Overview
 
 Hiring managers often have fragmented thoughts: quick Slack messages, voice note transcriptions, and rough requirement bullet points. **Recruitment Sandbox** synthesizes these raw notes into two production-grade hiring assets:
